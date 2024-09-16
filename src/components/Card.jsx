@@ -3,7 +3,7 @@ import React from "react";
 export default function Card({ email, lastName, firstName }) {
 	return (
 		<div className="card">
-			<div className="avatar></div>
+			<div className="avatar"></div>
 
 			<div className="data">
 				<h3>
